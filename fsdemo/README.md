@@ -3,6 +3,11 @@
 <a href="https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/ranshers/fsdemo&page=editor&open_in_editor=fsdemo/README.md">
 <img alt="Open in Cloud Shell" src ="http://gstatic.com/cloudssh/images/open-btn.png"></a>
 
+Alternate link:
+
+<a href="https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/sungchun12/schedule-python-script-using-Google-Cloud&page=editor&open_in_editor=README.md">
+<img alt="Open in Cloud Shell" src ="http://gstatic.com/cloudssh/images/open-btn.png"></a>
+
 This sample demonstrates how to use [Cloud Storage](https://cloud.google.com/storage/) on Google Managed VMs.
 
 ## Setup
